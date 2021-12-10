@@ -48,7 +48,7 @@ docker push marioalbuquerque/nginx-fc
 apt update
 apt install vim
 ```
-## Pressione a tecla ESC e em seguida digite:
+## Sair do vim, pressione a tecla ESC e em seguida digite:
 ```
 :q sai do vim
 :q! sai do vim sem salvar
