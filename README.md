@@ -56,3 +56,16 @@ apt install vim
 :x grava as alterações e sai
 :qa para sair de todas as edições em curso
 ```
+## Manifesto docker-compose
+- Aplicação adicional ao Docker
+- É feito em python 
+- É utilizado para subir varios containers ao mesmo tempo com um comando
+
+## Comando para rodar o docker-compose (-d é para rodar em background) 
+```
+docker docker-compose up -d
+```
+## Comando para matar os containers 
+```
+docker docker-compose down
+```
